@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi there My name is Tag 👋
 
-<!--
-**tuntagteam/tuntagteam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on little project
+- 🌱 I’m currently learning Flutter 
+- 💬 Ask me about HTML , PHP or any Web development tool.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoyed to coding while listening to classical music but prefer Phum Viphurit More!!
 
-Here are some ideas to get you started:
+Tools 🛠️
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,php,html,c,bootstrap,mysql" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,flutter,css,js" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacts 𝌕
+<p align="center">
+    <a href="https://www.instagram.com/dontlook_tag_inmango">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+    <a href="tagwithsaltedcaramel">
+    <img src="https://skillicons.dev/icons?i=discord"/>
+  </a>
+</p>
+
+Operation System 💻
+<p align="center">
+    <a href="https://www.instagram.com/dontlook_tag_inmango">
+    <img src="https://skillicons.dev/icons?i=apple" />
+  </a>
+</p>
+
