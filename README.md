@@ -10,16 +10,17 @@
 </p>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/1BfTskCsh5S1K5gBwp/giphy.gif](https://tenor.com/ixGyZvOTOhX.gif)" width="300">
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300">
 </div>
 
 ---
 
 ### 😎 About Me
-- 🌟 I’m currently working on a super cool project.
-- 📱 I’m diving into **Flutter**.
+- 🔭 I’m currently working on a super cool project.
+- 🌱 I’m diving into **Flutter**.
 - 💬 Feel free to ask me about **HTML**, **PHP**, or any Web Development tool.
-- 🎵 Fun fact: I love coding with classical music but groove better with **Phum Viphurit**!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love coding with classical music but groove better with **Phum Viphurit**!
 - 💻 Contact Me: [chawadol.su@gmail.com](mailto:chawadol.su@gmail.com)
 
 ---
@@ -64,5 +65,5 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5xaOcLLx7TbFfF8rFW4/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" width="300">
 </div>
