@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1BfTskCsh5S1K5gBwp/giphy.gif" width="300">
+  <img src="[https://media.giphy.com/media/1BfTskCsh5S1K5gBwp/giphy.gif](https://tenor.com/ixGyZvOTOhX.gif)" width="300">
 </div>
 
 ---
