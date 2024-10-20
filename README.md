@@ -2,60 +2,71 @@
 
 <p align="center">
   <a href="https://www.instagram.com/dontlook_tag_inmango">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://discord.com/users/tagwithsaltedcaramel">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:chawadol.su@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/tuntagteam">
+    <img src="https://img.shields.io/github/followers/tuntagteam?label=Follow&style=social" alt="GitHub Follow"/>
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300">
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="200" alt="Hello GIF">
+</p>
 
 ---
 
 ### 😎 About Me
-- 🔭 I’m currently working on a super cool project.
-- 🌱 I’m diving into **Flutter**.
-- 💬 Feel free to ask me about **HTML**, **PHP**, or any Web Development tool.
+- 🔭 I’m currently working on a **super cool project**.
+- 🌱 Learning **Flutter**.
+- 💬 Ask me about **HTML**, **PHP**, or any web development tool.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding with classical music but groove better with **Phum Viphurit**!
-- 💻 Contact Me: [chawadol.su@gmail.com](mailto:chawadol.su@gmail.com)
 
 ---
 
-### 🚀 Tools & Technologies 🛠️
+### 🚀 Skills & Technologies
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,php,html,c,bootstrap,mysql,tailwind,flutter,css,js&perline=5" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=github,php,html,css,js,bootstrap,tailwind,mysql,flutter" alt="Skills" />
 </p>
 
 ---
 
-### 💻 Operating System
+### 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://www.apple.com">
-    <img src="https://skillicons.dev/icons?i=apple" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
+### 🏆 Top Languages
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="center">📫 How to reach me</h2>
+### 📫 How to Reach Me
+
 <p align="center">
   <a href="mailto:chawadol.su@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" width="300">
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&color=blue" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" width="200" alt="Footer GIF">
+</p>
