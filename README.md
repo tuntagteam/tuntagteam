@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Tag 👋</h1>
+# <h1 align="center">Hey there, I'm Tag 👋</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/dontlook_tag_inmango">
@@ -19,11 +19,11 @@
 ---
 
 ### 😎 About Me
-- 🔭 I’m currently working on a **super cool project**.
-- 🌱 Learning **Flutter**.
-- 💬 Ask me about **HTML**, **PHP**, or any web development tool.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love coding with classical music but groove better with **Phum Viphurit**!
+- 🔭 I’m currently working on a **super cool project** that will probably break the internet. Stay tuned! 🚀
+- 🌱 Learning **Flutter** because apparently, I enjoy making my life harder. 🦋
+- 💬 Ask me about **HTML**, **PHP**, or any web development tool. I might not know the answer, but I'll Google it for you! 🤓
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I love coding with classical music but groove better with **Phum Viphurit**! 🎶
 
 ---
 
