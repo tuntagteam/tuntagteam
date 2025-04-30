@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tuntagteam&style=flat&color=blue" alt="Profile views" />
 </p>
 
 ---
