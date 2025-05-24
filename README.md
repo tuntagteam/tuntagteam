@@ -30,7 +30,7 @@
 ### 🚀 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,php,html,css,js,bootstrap,tailwind,mysql,flutter" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=github,php,html,css,js,bootstrap,tailwind,mysql,flutter,firebase,nextjs,kotlin,java,python,c" alt="Skills" />
 </p>
 
 ---
